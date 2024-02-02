@@ -1,0 +1,20 @@
+
+position: static;
+width: 7px;
+height: 10px;
+color: rgb(130, 130, 130);
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 150%;
+letter-spacing: 0px;
+text-align: center;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 4px;
